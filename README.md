@@ -1,5 +1,5 @@
 
-## Funciones Principales
+## Main Functions
 
 ### `add(valueReceived)`
 
