@@ -1,4 +1,6 @@
 
+[To see the calculator in action](https://calculator-vlambo3s-projects.vercel.app/)
+
 ## Main Functions
 
 ### `add(valueReceived)`
