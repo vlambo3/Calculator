@@ -1,0 +1,20 @@
+# Test $d
+
+name: Test
+
+on:
+  push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: 'main'
+    
+    - name: Run
+      run: |
+        echo hello world 
+        echo goodbye
