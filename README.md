@@ -1,6 +1,6 @@
 ## Preview
 
-To see the [calculator] in action(https://calculator-vlambo3s-projects.vercel.app/)
+You can view the calculator in action [here](https://calculator-vlambo3s-projects.vercel.app/).
 
 ## Main Functions
 
